@@ -8,6 +8,7 @@ The notebook contains an implementation of four predictive models; Linear Regres
 2. Where implementation of techniques was computationally impractical, alternative work was done to complete the predictive models. This is seen in the Random Forests and Gradient Tree models for regression where obtaining the best hyperparameters took significant amounts of time and so implementations without gradient boosting were used.
 
 **PERFORMANCE OF MODELS**
+
 LINEAR REGRESSION VS RIDGE REGRESSION: RIDGE REGRESSION PERFORMED BETTER THAN LINEAR REGRESSION
 
 The ridge regression model provided predictions with a MSE of as low as 278.72 whereas the lowest square error obtained from the linear regression model was 282.05. Ridge regression models gives estimates that minimise the sum of the square error by adding a penalty term. This reduces overfitting which increases it's ability to generalize outside of the original training set. This results in a better performance when the model is presented with unseen test data. In addition, ridge regression tends to perform better with large sets of data
