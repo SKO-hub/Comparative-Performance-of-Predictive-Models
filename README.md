@@ -1,6 +1,6 @@
 # Comparative-Performance-of-Predictive-Models
 
-The notebook contains an implementation of four predictive models; Linear Regression, Ridge regression, Random Forests for regression and Gradient Tree Boosting for regression. The models are implemented individually and their performance is obtained. And then the models are implemented in combination with each other (a binary classification followed by a regression).
+The notebook contains an implementation of four predictive models; Linear Regression, Ridge regression, Random Forests for regression and Gradient Tree Boosting for regression. The models are implemented individually and their performance is obtained. The models are then implemented in combination with each other (a binary classification followed by a regression).
 
 #**Implementation Notes**
 
